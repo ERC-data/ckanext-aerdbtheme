@@ -1,4 +1,0 @@
-*.pyc
-ckanext_datawagovautheme.egg-info/*
-build/*
-dist/*
