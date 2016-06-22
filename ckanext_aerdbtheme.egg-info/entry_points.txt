@@ -1,4 +1,0 @@
-
-        [ckan.plugins]
-        aerdb_theme = ckanext.aerdbtheme.plugins:CustomTheme
-    
