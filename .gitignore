@@ -2,3 +2,4 @@
 ckanext_aerdbtheme.egg-info/*
 build/*
 dist/*
+*~
